@@ -1,0 +1,26 @@
+{
+  "name": "littlestore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/LittleStore.js",
+  "types": "lib/LittleStore.d.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike96Angelo/LittleStore.js.git"
+  },
+  "author": "Michaelangelo Jong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mike96Angelo/LittleStore.js/issues"
+  },
+  "homepage": "https://github.com/Mike96Angelo/IOFlow.js#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.6"
+  }
+}
